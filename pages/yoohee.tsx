@@ -99,24 +99,15 @@ const TextContentRow = styled.div`
 // 992px
 
 const images = [
-  '/mainPhotos/1.jpeg',
-  '/mainPhotos/12.jpeg',
-  '/mainPhotos/4.jpeg',
-  '/mainPhotos/3.jpeg',
-  '/mainPhotos/5.jpeg',
-  '/mainPhotos/6.jpeg',
-  '/mainPhotos/7.jpeg',
-  '/mainPhotos/8.jpeg',
-  '/mainPhotos/9.jpeg',
-  '/mainPhotos/10.jpeg',
-  '/mainPhotos/13.jpeg',
-  '/mainPhotos/14.jpeg',
-  '/mainPhotos/15.jpeg',
-  '/mainPhotos/16.jpeg',
-  '/mainPhotos/17.jpeg',
-  '/mainPhotos/18.jpeg',
-  '/mainPhotos/20.jpeg',
-  '/mainPhotos/21.jpeg',
+  '/yoohee/1.jpeg',
+  '/yoohee/3.jpeg',
+  '/yoohee/2.jpeg',
+  '/yoohee/6.jpeg',
+  '/yoohee/5.jpeg',
+  '/yoohee/7.jpeg',
+  '/yoohee/8.jpeg',
+  '/yoohee/9.jpeg',
+  '/yoohee/11.jpeg',
 ];
 
 const Yoohee = () => {
@@ -134,7 +125,7 @@ const Yoohee = () => {
   return (
     <DefaultContentLayout
       title={<TitleSrc />}
-      photoUrl='/mainPhotos/7.jpeg'
+      photoUrl='/yoohee/10.jpeg'
       seoTitle='즐길거리'
     >
       <ContentContainer>

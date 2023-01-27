@@ -8,9 +8,9 @@ export default function Seo({ title }: IProps) {
   return (
     <Head>
       {title ? (
-        <title>{title} | 서동여관</title>
+        <title>{title} | 그림의 방</title>
       ) : (
-        <title>서동여관-부산감성숙소</title>
+        <title>서동-그림의 방</title>
       )}
     </Head>
   );

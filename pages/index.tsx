@@ -4,15 +4,14 @@ import Seo from '../components/Seo';
 
 const images = [
   '/mainPhotos/1.jpeg',
-  '/mainPhotos/12.jpeg',
-  '/mainPhotos/4.jpeg',
   '/mainPhotos/2.jpeg',
   '/mainPhotos/3.jpeg',
-  // '/mainPhotos/5.jpeg',
-  '/mainPhotos/24.png',
-  '/mainPhotos/25.jpeg',
+  '/mainPhotos/4.jpeg',
+  '/mainPhotos/5.jpeg',
+  '/mainPhotos/6.jpeg',
+  '/mainPhotos/7.jpeg',
   '/mainPhotos/8.jpeg',
-  '/mainPhotos/10.jpeg',
+  '/mainPhotos/9.jpeg',
 ];
 const Wrapper = styled.div`
   width: 100%;

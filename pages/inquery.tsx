@@ -83,7 +83,7 @@ const Inquery = () => {
           특별한 주인공이 되어주세요.
         </>
       }
-      photoUrl='/mainPhotos/26.jpeg'
+      photoUrl='/inquery/1.jpeg'
       seoTitle='문의'
     >
       <Spacer />

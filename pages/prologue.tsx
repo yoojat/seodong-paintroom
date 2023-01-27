@@ -55,7 +55,7 @@ const Prologue = () => {
   const TitleSrc = () => (
     <Div>
       <p>
-        서동여관에 오신걸 환영합니다.
+        그림의 방에 오신걸 환영합니다.
         <br />
       </p>
       <p>
@@ -83,7 +83,7 @@ const Prologue = () => {
   return (
     <DefaultContentLayout
       title={<TitleSrc />}
-      photoUrl='/mainPhotos/9.jpeg'
+      photoUrl='/prologue/2.jpeg'
       seoTitle='프롤로그'
     ></DefaultContentLayout>
   );
