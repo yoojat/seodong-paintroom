@@ -184,6 +184,18 @@ const Yoohee = () => {
                 드릴 수 있습니다.
               </p>
             </TextContentRow>
+            <TextContentRow>
+              <p>프라이빗 오티티룸 서동영화를 이용하실 수도 있습니다.</p>
+              <p>
+                단, 다른 분들과 이용시간이 겹치지 않기 위해, 미리 시간을
+                조율해야 합니다.
+              </p>
+              <p>
+                서동영화는 제가 좋아하는 왕가위 감독의 영화들도 공간을
+                꾸며보았습니다.
+              </p>
+              <p>여행을 통해, 지친 하루를 한편의 영화로 달래보는건 어떨까요?</p>
+            </TextContentRow>
           </TextContentCol>
         </TextContainer>
         <TextContainer></TextContainer>

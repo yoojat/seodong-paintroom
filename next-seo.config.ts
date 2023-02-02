@@ -1,13 +1,13 @@
 const config = {
-  canonical: 'https://seodong-stay.vercel.app/',
+  canonical: 'https://seodong-paintroom.vercel.app/',
   openGraph: {
     type: 'website',
     locale: 'ko_KR',
-    url: 'https://seodong-stay.vercel.app/',
+    url: 'https://seodong-paintroom.vercel.app/',
     site_name: '서동-그림의 방',
     title: '서동-그림의 방',
     image: {
-      url: 'https://seodong-stay.vercel.app/mainPhotos/5.jpeg',
+      url: '/mainPhotos/1.jpeg',
       width: 800,
       height: 600,
       alt: '그림의 방',
