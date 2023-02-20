@@ -10,7 +10,7 @@ export default function Seo({ title }: IProps) {
       {title ? (
         <title>{title} | 그림의 방</title>
       ) : (
-        <title>서동-그림의 방</title>
+        <title>서동여관-그림의 방</title>
       )}
     </Head>
   );

@@ -4,8 +4,8 @@ const config = {
     type: 'website',
     locale: 'ko_KR',
     url: 'https://seodong-paintroom.vercel.app/',
-    site_name: '서동-그림의 방',
-    title: '서동-그림의 방',
+    site_name: '서동여관 그림의 방',
+    title: '서동여관 그림의 방',
     image: {
       url: '/mainPhotos/1.jpeg',
       width: 800,
